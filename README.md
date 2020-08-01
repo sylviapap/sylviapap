@@ -8,6 +8,4 @@ I'm Sylvia. I'm trying out some different things here with this fun new README f
 ## Visitors*
 ![Visitor Count](https://profile-counter.glitch.me/sylviapap/count.svg)
 
-*<p align="right">*In millions</p>*
-
-check out [sylviapap.com](https://sylviapap.com) for more
+*<p align="right">&#42;In millions</p>*
