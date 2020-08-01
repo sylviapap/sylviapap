@@ -1,7 +1,5 @@
 # Hi 👋
 
-I'm trying out some different things here with this fun new README feature
-
 ## 📈 📊 🔬
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sylviapap&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Sylvia's github stats"/></a></p>
